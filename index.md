@@ -1,5 +1,8 @@
 ## TGN Network
 Welcome to the TGN Network ~ Excellence made with proffessionality.
+We strive to be an excellent network and always want to provide a
+postive, fun and friendly environment so everyone can enjoy the
+games we offer.
 
 ### Games
 On our minecraft network you will find a Destroy the Monument server.
@@ -9,5 +12,5 @@ On our minecraft network you will find a Destroy the Monument server.
 their goal is to destroy each other's monuments.
 Build Defenses - PVP Others - Much More
 
-### Connect Now
+# Connect Now
 play.comingsoon.com
