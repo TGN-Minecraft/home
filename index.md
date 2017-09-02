@@ -1,4 +1,4 @@
-# [Home](https://tgn-minecraft.github.io/home/) - [News](https://tgn-minecraft.github.io/home/news) - [Forums](https://tgn-minecraft-forums.enjin.com/) - [Issues](https://github.com/TGN-Minecraft/issues)
+
 
 ### TGN Network
 Welcome to the TGN Network ~ Excellence made with proffessionality.
