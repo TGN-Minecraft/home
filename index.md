@@ -1,3 +1,5 @@
+# link:https://tgn-minecraft.github.io/news[News] | Home | Github
+
 ## TGN Network
 Welcome to the TGN Network ~ Excellence made with proffessionality.
 We strive to be an excellent network and always want to provide a
