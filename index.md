@@ -16,5 +16,4 @@ Build Defenses - PVP Others - Much More
 
 ## Connect Now
 The server will be playable September 2017! 
-
 The server address will be released soon.
